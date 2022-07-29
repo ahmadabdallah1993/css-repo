@@ -1,0 +1,33 @@
+/* body{
+    background-color: rgb(159, 146, 130); 
+} */
+
+
+
+h1{
+    background-color:aqua;
+    border: 3px solid black;
+    padding-left: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 60px;
+    
+    margin-right: 200px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+ p{
+    background-color: chartreuse;
+} 
+
+
+#third-p{
+    background-color:rgb(255, 255, 255);
+    }
+
+
+.bordered-p{
+    border:1px solid burlywood;
+    } 
